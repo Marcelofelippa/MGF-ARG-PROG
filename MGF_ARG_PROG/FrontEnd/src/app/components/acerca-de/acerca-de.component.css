@@ -2,7 +2,7 @@
     padding: 20px;
 }
 div{
-    background-color: #a1b5cb;
+    background-color: #85c1e9;
     text-align: center;
 }
 /*Estilo de la foto de perfil*/
@@ -13,7 +13,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
-        top:550px;
+        top:480px;
     }
 }
 @media (max-width: 575px){
@@ -30,5 +30,5 @@ div{
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 60%;
 }

@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "circle-progress": "^1.0.0",
+    "ng": "^0.0.0",
     "ng-circle-progress": "^1.6.0"
   }
 }
