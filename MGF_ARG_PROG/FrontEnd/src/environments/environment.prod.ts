@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  _URL: 'https://backmgf.herokuapp.com/',
+   URL: 'https://backmgf.herokuapp.com/',
   
 };
